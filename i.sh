@@ -1,3 +1,5 @@
 #!/bin/bash
 pkg install php
-git clone 
+git clone https://github.com/mFnana/i
+cd i
+php i.php
